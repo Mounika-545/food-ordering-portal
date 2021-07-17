@@ -1,6 +1,7 @@
-/* .container{
+.container1{
     width: 60%;
     margin: auto;
+    margin-top: 4%;
 }
 .h2{
     text-align: center;
@@ -34,16 +35,12 @@
 }
 .btn:hover{
     color: white;
-} */
-
-
-.img-size{
-    max-height: 200px;
-    max-width: 200px;
 }
 
-.container{
-    width:100%;
-    height:auto;
-    padding:1%;
+.button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2%;
+    text-decoration: none;
 }
